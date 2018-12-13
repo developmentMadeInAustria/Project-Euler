@@ -1,14 +1,11 @@
-//
-//  Problem7.hpp
-//  Project Euler
-//
-//  Created by Dominik Gail on 29.11.18.
-//  Copyright © 2018 Dominik Gail. All rights reserved.
-//
-
 #ifndef Problem7_hpp
 #define Problem7_hpp
 
 #include <stdio.h>
+#include <iostream>
+#include <vector>
 
-#endif /* Problem7_hpp */
+void problem_seven();
+long next_prime(std::vector<long> &);
+
+#endif

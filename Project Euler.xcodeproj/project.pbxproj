@@ -7,7 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF14CA2521A9D62C00C9AF99 /* Problem5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF14CA2321A9D62C00C9AF99 /* Problem5.cpp */; };
+		EF14CA2821A9DDC100C9AF99 /* Problem6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF14CA2621A9DDC100C9AF99 /* Problem6.cpp */; };
 		EF34C6EF21A70E9000CDAC19 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF34C6EE21A70E9000CDAC19 /* main.cpp */; };
+		EF34C6F621A7123600CDAC19 /* Problem1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF34C6F521A7123600CDAC19 /* Problem1.cpp */; };
+		EF34C6FB21A71C9700CDAC19 /* Problem2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF34C6F921A71C9700CDAC19 /* Problem2.cpp */; };
+		EF34C6FE21A7224300CDAC19 /* Problem3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF34C6FC21A7224300CDAC19 /* Problem3.cpp */; };
+		EF34C70121A7330000CDAC19 /* Problem4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF34C6FF21A7330000CDAC19 /* Problem4.cpp */; };
+		EF35ADDA21BBBF5B0058F9D5 /* Problem8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF35ADD821BBBF5B0058F9D5 /* Problem8.cpp */; };
+		EFD2FE5021AFD65D00652F5E /* Problem7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EFD2FE4E21AFD65D00652F5E /* Problem7.cpp */; };
+		EFDFAE0121C2F482004E1EA0 /* Problem9.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EFDFADFF21C2F482004E1EA0 /* Problem9.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +32,26 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		EF14CA2321A9D62C00C9AF99 /* Problem5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem5.cpp; sourceTree = "<group>"; };
+		EF14CA2421A9D62C00C9AF99 /* Problem5.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem5.hpp; sourceTree = "<group>"; };
+		EF14CA2621A9DDC100C9AF99 /* Problem6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem6.cpp; sourceTree = "<group>"; };
+		EF14CA2721A9DDC100C9AF99 /* Problem6.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem6.hpp; sourceTree = "<group>"; };
 		EF34C6EB21A70E9000CDAC19 /* Project Euler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Project Euler"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF34C6EE21A70E9000CDAC19 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EF34C6F521A7123600CDAC19 /* Problem1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1.cpp; sourceTree = "<group>"; };
+		EF34C6F821A7186A00CDAC19 /* Problem1.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem1.hpp; sourceTree = "<group>"; };
+		EF34C6F921A71C9700CDAC19 /* Problem2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem2.cpp; sourceTree = "<group>"; };
+		EF34C6FA21A71C9700CDAC19 /* Problem2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem2.hpp; sourceTree = "<group>"; };
+		EF34C6FC21A7224300CDAC19 /* Problem3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem3.cpp; sourceTree = "<group>"; };
+		EF34C6FD21A7224300CDAC19 /* Problem3.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem3.hpp; sourceTree = "<group>"; };
+		EF34C6FF21A7330000CDAC19 /* Problem4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem4.cpp; sourceTree = "<group>"; };
+		EF34C70021A7330000CDAC19 /* Problem4.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem4.hpp; sourceTree = "<group>"; };
+		EF35ADD821BBBF5B0058F9D5 /* Problem8.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem8.cpp; sourceTree = "<group>"; };
+		EF35ADD921BBBF5B0058F9D5 /* Problem8.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem8.hpp; sourceTree = "<group>"; };
+		EFD2FE4E21AFD65D00652F5E /* Problem7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem7.cpp; sourceTree = "<group>"; };
+		EFD2FE4F21AFD65D00652F5E /* Problem7.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem7.hpp; sourceTree = "<group>"; };
+		EFDFADFF21C2F482004E1EA0 /* Problem9.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem9.cpp; sourceTree = "<group>"; };
+		EFDFAE0021C2F482004E1EA0 /* Problem9.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem9.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +85,24 @@
 			isa = PBXGroup;
 			children = (
 				EF34C6EE21A70E9000CDAC19 /* main.cpp */,
+				EF34C6F521A7123600CDAC19 /* Problem1.cpp */,
+				EF34C6F821A7186A00CDAC19 /* Problem1.hpp */,
+				EF34C6F921A71C9700CDAC19 /* Problem2.cpp */,
+				EF34C6FA21A71C9700CDAC19 /* Problem2.hpp */,
+				EF34C6FC21A7224300CDAC19 /* Problem3.cpp */,
+				EF34C6FD21A7224300CDAC19 /* Problem3.hpp */,
+				EF34C6FF21A7330000CDAC19 /* Problem4.cpp */,
+				EF34C70021A7330000CDAC19 /* Problem4.hpp */,
+				EF14CA2321A9D62C00C9AF99 /* Problem5.cpp */,
+				EF14CA2421A9D62C00C9AF99 /* Problem5.hpp */,
+				EF14CA2621A9DDC100C9AF99 /* Problem6.cpp */,
+				EF14CA2721A9DDC100C9AF99 /* Problem6.hpp */,
+				EFD2FE4E21AFD65D00652F5E /* Problem7.cpp */,
+				EFD2FE4F21AFD65D00652F5E /* Problem7.hpp */,
+				EF35ADD821BBBF5B0058F9D5 /* Problem8.cpp */,
+				EF35ADD921BBBF5B0058F9D5 /* Problem8.hpp */,
+				EFDFADFF21C2F482004E1EA0 /* Problem9.cpp */,
+				EFDFAE0021C2F482004E1EA0 /* Problem9.hpp */,
 			);
 			path = "Project Euler";
 			sourceTree = "<group>";
@@ -118,7 +163,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF14CA2821A9DDC100C9AF99 /* Problem6.cpp in Sources */,
+				EF34C6F621A7123600CDAC19 /* Problem1.cpp in Sources */,
+				EF35ADDA21BBBF5B0058F9D5 /* Problem8.cpp in Sources */,
+				EF34C6FE21A7224300CDAC19 /* Problem3.cpp in Sources */,
+				EF34C70121A7330000CDAC19 /* Problem4.cpp in Sources */,
 				EF34C6EF21A70E9000CDAC19 /* main.cpp in Sources */,
+				EFD2FE5021AFD65D00652F5E /* Problem7.cpp in Sources */,
+				EFDFAE0121C2F482004E1EA0 /* Problem9.cpp in Sources */,
+				EF34C6FB21A71C9700CDAC19 /* Problem2.cpp in Sources */,
+				EF14CA2521A9D62C00C9AF99 /* Problem5.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

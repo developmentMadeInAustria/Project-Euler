@@ -1,14 +1,13 @@
-//
-//  Problem8.hpp
-//  Project Euler
-//
-//  Created by Dominik Gail on 08.12.18.
-//  Copyright © 2018 Dominik Gail. All rights reserved.
-//
-
 #ifndef Problem8_hpp
 #define Problem8_hpp
 
 #include <stdio.h>
+#include <stdlib.h>
+#include <iostream>
+#include <string>
+#include <vector>
+
+void problem_eight();
+bool contains_zero(std::vector<int>);
 
 #endif /* Problem8_hpp */

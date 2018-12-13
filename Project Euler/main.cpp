@@ -1,15 +1,16 @@
-//
-//  main.cpp
-//  Project Euler
-//
-//  Created by Dominik Gail on 22.11.18.
-//  Copyright © 2018 Dominik Gail. All rights reserved.
-//
-
 #include <iostream>
+#include "Problem1.hpp"
+#include "Problem2.hpp"
+#include "Problem3.hpp"
+#include "Problem4.hpp"
+#include "Problem5.hpp"
+#include "Problem6.hpp"
+#include "Problem7.hpp"
+#include "Problem8.hpp"
+#include "Problem9.hpp"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+    
+    problem_nine();
+    
 }

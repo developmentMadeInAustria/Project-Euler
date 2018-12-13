@@ -11,4 +11,6 @@
 
 #include <stdio.h>
 
+void problem_two();
+
 #endif /* Problem2_hpp */
