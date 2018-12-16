@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		EF14CA2521A9D62C00C9AF99 /* Problem5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF14CA2321A9D62C00C9AF99 /* Problem5.cpp */; };
 		EF14CA2821A9DDC100C9AF99 /* Problem6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF14CA2621A9DDC100C9AF99 /* Problem6.cpp */; };
+		EF16E51321C67ED000480700 /* Problem10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF16E51121C67ED000480700 /* Problem10.cpp */; };
 		EF34C6EF21A70E9000CDAC19 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF34C6EE21A70E9000CDAC19 /* main.cpp */; };
 		EF34C6F621A7123600CDAC19 /* Problem1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF34C6F521A7123600CDAC19 /* Problem1.cpp */; };
 		EF34C6FB21A71C9700CDAC19 /* Problem2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EF34C6F921A71C9700CDAC19 /* Problem2.cpp */; };
@@ -36,6 +37,8 @@
 		EF14CA2421A9D62C00C9AF99 /* Problem5.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem5.hpp; sourceTree = "<group>"; };
 		EF14CA2621A9DDC100C9AF99 /* Problem6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem6.cpp; sourceTree = "<group>"; };
 		EF14CA2721A9DDC100C9AF99 /* Problem6.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem6.hpp; sourceTree = "<group>"; };
+		EF16E51121C67ED000480700 /* Problem10.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem10.cpp; sourceTree = "<group>"; };
+		EF16E51221C67ED000480700 /* Problem10.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Problem10.hpp; sourceTree = "<group>"; };
 		EF34C6EB21A70E9000CDAC19 /* Project Euler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Project Euler"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF34C6EE21A70E9000CDAC19 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		EF34C6F521A7123600CDAC19 /* Problem1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1.cpp; sourceTree = "<group>"; };
@@ -103,6 +106,8 @@
 				EF35ADD921BBBF5B0058F9D5 /* Problem8.hpp */,
 				EFDFADFF21C2F482004E1EA0 /* Problem9.cpp */,
 				EFDFAE0021C2F482004E1EA0 /* Problem9.hpp */,
+				EF16E51121C67ED000480700 /* Problem10.cpp */,
+				EF16E51221C67ED000480700 /* Problem10.hpp */,
 			);
 			path = "Project Euler";
 			sourceTree = "<group>";
@@ -166,6 +171,7 @@
 				EF14CA2821A9DDC100C9AF99 /* Problem6.cpp in Sources */,
 				EF34C6F621A7123600CDAC19 /* Problem1.cpp in Sources */,
 				EF35ADDA21BBBF5B0058F9D5 /* Problem8.cpp in Sources */,
+				EF16E51321C67ED000480700 /* Problem10.cpp in Sources */,
 				EF34C6FE21A7224300CDAC19 /* Problem3.cpp in Sources */,
 				EF34C70121A7330000CDAC19 /* Problem4.cpp in Sources */,
 				EF34C6EF21A70E9000CDAC19 /* main.cpp in Sources */,
